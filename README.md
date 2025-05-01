@@ -1,4 +1,4 @@
-# 🛠️ Boheommian Rhapsody
+# 🛠️ Boheommian Rhapsody, Multi-Agent를 활용한 보험 설계 서비스
 
 ### 📌 Overview
 Boheommian Rhapsody is an AI-driven insurance agent simulator built for the **Upstage X YBIGTA Hackathon**.  
